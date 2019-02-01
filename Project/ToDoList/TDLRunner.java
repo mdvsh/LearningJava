@@ -1,6 +1,5 @@
 import java.util.Scanner;
-// @author Madhav Shekhar Sharma
-// Date: 22/1/19
+
 public class TDLRunner {
     public static void main(String[] args) {
         ToDoList tdl = new ToDoList(10);
