@@ -1,4 +1,4 @@
-# LearningJava
+# Learning-Java <i class="em em-male-technologist"></i>
 Started learning programming in Java for the AP Computer Science A;
 
 Reference and guide is the Herbert Schidner's Book Java: A beginner's guide 
