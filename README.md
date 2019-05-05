@@ -2,6 +2,8 @@
 
 # Learning-Java <i class="em em-male-technologist"></i>
 
+![AP Computer Science A](https://github.com/MaddyDev03/LearningJava/blob/master/logo.jpg)
+
 ## Started learning programming in Java for the AP Computer Science A;
 
 ### Reference and guides:
@@ -22,5 +24,5 @@ Also, I have added Resources folder,
 
 **SEE AP CS folder for advance projects and learning programs.**
 
- [logo] : https://github.com/MaddyDev03/LearningJava/blob/master/nut.jpg "AP Computer Science A"
- [ap] : https://github.com/MaddyDev03/LearningJava/blob/master/logo.jpg "AP Computer Science A"
+![Java](https://github.com/MaddyDev03/LearningJava/blob/master/nut.jpg)
+
