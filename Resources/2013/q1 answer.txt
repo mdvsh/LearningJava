@@ -1,0 +1,28 @@
+Part (a)
+  public DownloadInfo getDownloadInfo(String title)
+  {
+    for (DownloadInfo di : downloadList)
+      if (di.getTitle().equals(title))
+         return di;
+    return null;
+  }
+
+
+Part (b)
+
+  public void updateDownloads(List titles)
+  {
+    for (String title : titles)
+    {
+      DownloadInfo di = getDownloadInfo(title);
+      if (di == null)
+        downloadList.add(new DownloadInfo(title));  
+      else
+        di.incrementTimesDownloaded();
+    }
+  }
+
+Notes:
+Notice that the comment in DownloadInfo's constructor
+ states that it "sets the number of times downloaded to 1" — 
+no need to increment it.
