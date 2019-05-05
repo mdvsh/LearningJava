@@ -1,0 +1,62 @@
+March 17th -->  begin mock ap
+
+
+
+
+
+SAVE FOR MIDTERM:
+2013, q4 , skyView  		2d array
+2011 , q1, sound question   1d array
+2014 Question 3 (Student, SeatingChart) * also ArrayList
+
+
+
+2004, 
+cookieorder (12.4)
+Pet,kennel55
+
+2005
+q1 hotel reservation
+
+
+2006
+question 1
+
+2008 (has graded samples)
+q2 strings
+q4 interfaces checker
+
+2009 
+DO NOT USE THIS YEAR BECAUSE WE HAVE THE MC 
+q3 battery charger
+q1
+
+2010
+Trail
+CookieOrder 
+(q4 is girdworld)
+
+2011 
+question 1 
+question 3 NO
+question 4 Route cipher
+
+2013
+question 1 downloadinfo
+question 4 gray image
+
+2014 
+question 4 trio (interface)
+
+2015 
+DO NOT USE THIS YEAR BECAUSE WE HAVE THE MC 
+Question 1 (Diverse Array) Also 1 D arrays
+
+2016
+
+2017
+question 1, question 2
+
+
+TB used
+2007 AB q1 (2-d array)
